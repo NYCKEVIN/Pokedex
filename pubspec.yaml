@@ -30,6 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  # Configuración inicial 
   flutter_bloc: ^8.1.0
   equatable: ^2.0.5
   http: ^1.1.0
