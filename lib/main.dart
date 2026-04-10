@@ -12,9 +12,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Pokedex BLoC',
-      debugShowCheckedModeBanner: false, // Para quitar la etiqueta roja de "Debug"
+      debugShowCheckedModeBanner: false, 
       
-      // 2. AQUÍ ES DONDE SE LLMA A TU CLASE
+      
       home: const SplashPage(), 
     );
   }
